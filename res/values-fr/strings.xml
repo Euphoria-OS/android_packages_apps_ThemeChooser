@@ -45,4 +45,5 @@
     <item>Play Store</item>
     <item>Plus d\'infos sur le Wiki de CM</item>
   </string-array>
+  <string name="designed_for_cm11">Conçu pour CM11</string>
 </resources>
